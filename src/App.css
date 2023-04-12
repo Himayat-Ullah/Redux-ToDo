@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.h2design {
+  width: 100%;
+  position: relative;
+  margin-top: -3vh;
+  margin-bottom: 2vh;
+  color: black;
+  background-color: aqua;
+  padding: 1% 0;
+  border-radius: 5px 5px 0 0;
+}
+.inputd {
+  outline: none;
+  width: 100%;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  padding-left: 2%;
+}
+.plusd {
+  height: 40px;
+  background-color: white;
+}
+.lastd1,
+.lastd2 {
+  width: 70%;
+  padding: 3px;
+  border-radius: 5px;
+}
+.lastd1 {
+  margin-bottom: 15%;
+}
+.deleteicond:hover {
+  color: red;
+}
+.buttond {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.btnd {
+  border: none;
+}
+.caret {
+  caret-color: transparent;
+}
